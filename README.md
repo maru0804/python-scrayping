@@ -1,10 +1,10 @@
-# スクレイピング＆web表示
+# scraiper
 
 yahoo newsのトピックをスクレイピングしてflaskでwebページに表示する
  
 # DEMO
  
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+![demo](https://user-images.githubusercontent.com/53184634/83304021-0b9e9800-a239-11ea-9a45-fe10600880e3.gif)
  
 # Features
  
