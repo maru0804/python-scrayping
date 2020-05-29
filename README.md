@@ -8,7 +8,7 @@ yahoo newsのトピックをスクレイピングしてflaskでwebページに�
  
 # Features
  
-"hoge"のセールスポイントや差別化などを説明する
+flaskでタイトルとURLを表示できる
  
 # Requirement
  
@@ -21,3 +21,4 @@ yahoo newsのトピックをスクレイピングしてflaskでwebページに�
  
 # Usage
  
+flaskフォルダにあるファイルを実行すると結果が得られる
